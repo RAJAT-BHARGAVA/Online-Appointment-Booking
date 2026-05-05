@@ -1,0 +1,12 @@
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+.mvn/
+.git/
+.gitignore
+README.md
+HELP.md
+*.md
